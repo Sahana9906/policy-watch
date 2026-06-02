@@ -1,0 +1,25 @@
+# Web Framework & Server
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+
+# Database & ORM
+sqlalchemy==2.0.30
+asyncpg==0.29.0
+psycopg2-binary==2.9.9
+
+# HTTP Client
+httpx==0.27.0
+
+# Parsing & Scraping
+beautifulsoup4==4.12.3
+
+# AI & Cloud Services
+google-generativeai==0.5.4
+
+# Scheduling & Task Management
+apscheduler==3.10.4
+
+# Configuration & Validation
+pydantic==2.7.1
+pydantic-settings==2.2.1
+python-dotenv==1.0.1
